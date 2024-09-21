@@ -1,0 +1,7 @@
+employeId,name,age,department,salary,new_column
+101,jennifer,25,A,30000,1
+102,sam,26,B,35000,1
+103,john,23,B,25000,1
+104,krish,30,A,40000,0
+105,george,31,C,42000,0
+106,susan,25,C,28000,1
